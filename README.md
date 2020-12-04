@@ -9,7 +9,6 @@ The proposed PMM(Progressive-Multi-stage-Feature-Mix) model can be found in mode
 
 ## Setup running environment
 This project requires python3, cython, torch, torchvision, scikit-learn, tensorboardX, fire.
-The baseline source code is borrowed from https://github.com/L1aoXingyu/reid_baseline.
 
 ## Prepare dataset
     
