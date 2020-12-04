@@ -1,5 +1,7 @@
 # Progressive-Multi-stage-Feature-Mix-for-Person-Re-Identification
-pytorch code for paper Progressive Multi-stage Feature Mix for Person Re-Identification
+
+
+pytorch code for paper Progressive Multi-stage Feature Mix for Person Re-Identification: https://arxiv.org/abs/2007.08779
 
 This project is based on batch-drop-block: https://github.com/daizuozhuo/batch-dropblock-network
 
