@@ -2,6 +2,7 @@
 pytorch code for paper Progressive Multi-stage Feature Mix for Person Re-Identification
 
 This project is based on batch-drop-block: https://github.com/daizuozhuo/batch-dropblock-network
+
 The proposed PMM(Progressive-Multi-stage-Feature-Mix) model can be found in models/progressive_networks.py
 
 ## Setup running environment
