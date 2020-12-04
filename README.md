@@ -1,5 +1,7 @@
 # Progressive-Multi-stage-Feature-Mix-for-Person-Re-Identification
 
+![alt text](https://github.com/crazydemo/Progressive-Multi-stage-Feature-Mix-for-Person-Re-Identification/blob/main/PMM_framework.png)
+
 
 pytorch code for paper Progressive Multi-stage Feature Mix for Person Re-Identification: https://arxiv.org/abs/2007.08779
 
